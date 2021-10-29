@@ -4,6 +4,9 @@ using namespace std;
 /*IDEA
 we are performing bubble sort on the list.we are taking two pointers one is taking address of head and another is taking it's next address.
 two loops are used first element is searched from the entire list , then second element is compared and this process is gone ,untill they become null.
+
+you can implement diffrent sorting algorithm in this, you can also do like this : create a empty linked list and insert element according to its 
+size if it is big then place at last , if small place it at first and middle like this.
 */
 
 struct node

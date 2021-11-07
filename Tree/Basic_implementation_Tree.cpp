@@ -1,6 +1,16 @@
 #include <iostream>
 using namespace std;
 
+/*
+We are goining to create a simple tree manually by assigning next node address manually.
+
+                10
+              /     \
+            20      30
+          /  \     /   \
+         40  50   60   70
+*/
+
 struct node
 {
     int data;
@@ -83,3 +93,7 @@ int main()
 
     return 0;
 }
+
+/*OUTPUT
+10 20 40 50 30 60 70 
+*/

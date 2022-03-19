@@ -5,6 +5,10 @@ using namespace std;
 Linear search - it is a searching technique, where we take a key wcich to be searched then we compare every element with the key untill they become
 equal. at this state we can conclude that we have succesfully find the element.
 I have implemented using for & while loop for better understanding and broade vision.
+Time complexity.
+best case - bigO(1)
+avrage case - theth(n/1)
+worst case - bigO(n)
 */
 
 int main()
